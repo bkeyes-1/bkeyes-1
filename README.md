@@ -1,4 +1,4 @@
-Hello! I'm Brendan!
+<h3>Hello! I'm Brendan!</h3>
 
 <h2>Personal Projects</h2>
 
